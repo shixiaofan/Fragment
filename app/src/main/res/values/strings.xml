@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentDemo</string>
+    <array name="goods_order">
+        <item>价格由低到高</item>
+        <item>价格由高到低</item>
+    </array>
+</resources>
